@@ -1,0 +1,42 @@
+.menu-button{
+    list-style: none;
+    margin-right: 24px;
+}
+
+.main-table{
+    background-color: rgb(245, 245, 102);
+    text-align: center;
+}
+
+thead{
+    background-color: rgb(208, 241, 141);
+}
+
+tbody{
+    background-color: rgb(243, 213, 159);
+}
+
+table, td, th{
+    border: solid 1px black;
+}
+
+.div-main-menu{
+    display: flex;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 24px;
+    width: 100%;
+    text-align: center;
+}
+
+div{
+    justify-content: center;
+    align-items: center;
+}
+header{
+    text-align: center;
+}
+
+body{
+    transform:scale(1,1)
+}
